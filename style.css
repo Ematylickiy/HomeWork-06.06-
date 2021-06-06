@@ -1,0 +1,8 @@
+/* #task_1_text_1, #task_1_text_2 {
+    display: none;
+} */
+.task {
+    border: 1px black solid;
+    margin: 20px;
+    padding: 5px;
+}
